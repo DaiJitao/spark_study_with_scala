@@ -1,1 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+target/
+spark_study_with_scala.iml
+src/test
